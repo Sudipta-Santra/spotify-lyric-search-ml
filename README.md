@@ -81,11 +81,12 @@ This evaluation method closely represents real-world usage.
 ## Project Structure
 
 spotify-lyric-search/
+
   │
   
-  ├── spotify_lyric_search.py
+  ├── Spotify Lyric Search - Machine Learning Project.ipynb
   
-  ├── Spotify Million Song Dataset_exported.csv
+  ├── Spotify Million Song Dataset_exported.zip
   
   └── README.md
 
