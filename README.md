@@ -82,8 +82,11 @@ This evaluation method closely represents real-world usage.
 
 spotify-lyric-search/
   │
+  
   ├── spotify_lyric_search.py
+  
   ├── Spotify Million Song Dataset_exported.csv
+  
   └── README.md
 
 ---
