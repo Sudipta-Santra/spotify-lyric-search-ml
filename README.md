@@ -81,10 +81,10 @@ This evaluation method closely represents real-world usage.
 ## Project Structure
 
 spotify-lyric-search/
-│
-├── spotify_lyric_search.py
-├── Spotify Million Song Dataset_exported.csv
-└── README.md
+  │
+  ├── spotify_lyric_search.py
+  ├── Spotify Million Song Dataset_exported.csv
+  └── README.md
 
 ---
 ### Sample Input
